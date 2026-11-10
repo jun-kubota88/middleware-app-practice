@@ -15,3 +15,5 @@ COACHTECH 教材 Tutorial 10-2「ミドルウェア ハンズオン演習」で�
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- <img width="1257" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd763e47-1959-44ac-b2f6-fde0b35bc36a" />
+<img width="1257" height="1080" alt="image" src="https://github.com/user-attachments/assets/935caa9f-56aa-46a7-a348-1e28d36c5f35" />
